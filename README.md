@@ -6,6 +6,20 @@ Welcome to the ABC Company Customer Service (Example company name) web applicati
 ## Database Design
 The MySQL database is structured to efficiently store user information, product details, claims, and administrator-related data.
 
+## Technologies Used
+- J2EE (Java 2 Platform, Enterprise Edition)
+- JSP (JavaServer Pages)
+- MySQL Database
+- Apache Tomcat
+- JDBC (Java Database Connectivity)
+- HTML/CSS
+- Java Servlets
+- JavaScript
+- MySQL Workbench
+- MVC Architecture
+- Security Measures (Form Validation, Access Controls, Encryption)
+- Feedback Functionality (JSP and Java Servlets)
+
 ## Web Forms
 User-friendly forms have been implemented for account creation, product registration, claim submission, and feedback. These forms include proper validation to ensure data accuracy.
 
